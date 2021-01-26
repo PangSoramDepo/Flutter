@@ -1,0 +1,9 @@
+***Configuration
+1.Download google-service.json from Firebase and copy to "/android/app"
+2.Apply "apply plugin: 'com.google.gms.google-services'" to /android/app/build.gradle
+
+
+***Source
+https://pub.dev/packages/firebase_messaging
+https://www.youtube.com/watch?v=Lq9-DPKWtIc&ab_channel=FilledStacks
+https://www.filledstacks.com/post/push-notifications-in-flutter-using-firebase
